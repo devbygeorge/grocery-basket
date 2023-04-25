@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "grocery-basket",
+    "slug": "grocery-basket",
+    "icon": "./src/assets/images/basket.png",
+    "orientation": "portrait"
+  }
+}
