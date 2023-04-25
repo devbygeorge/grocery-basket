@@ -1,12 +1,24 @@
 {
   "expo": {
+    "name": "Grocery Basket",
+    "slug": "grocery-basket",
+    "description": "This app simplifies the process of buying products.",
+    "icon": "./src/assets/images/square-basket.png",
+    "orientation": "portrait",
     "scheme": "acme",
     "web": {
       "bundler": "metro"
     },
-    "name": "grocery-basket",
-    "slug": "grocery-basket",
-    "icon": "./src/assets/images/basket.png",
-    "orientation": "portrait"
+    "extra": {
+      "eas": {
+        "projectId": "36362288-e801-4fa6-bb6d-3db07666f5b9"
+      }
+    },
+    "android": {
+      "package": "com.giushaa.grocerybasket"
+    },
+    "ios": {
+      "bundleIdentifier": "com.giushaa.grocerybasket"
+    }
   }
 }
