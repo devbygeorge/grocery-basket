@@ -25,9 +25,3 @@ To install the app, follow these steps:
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Run the app on the web: `npm run web`
-
-**Demo**
-
-Due to limitations on iOS, the demo view is only accessible on Android. To view it on your Android device, scan the QR code provided in the following link using the Expo Go app.
-
-https://expo.dev/@giushaa/grocery-basket?serviceType=classic&distribution=expo-go
